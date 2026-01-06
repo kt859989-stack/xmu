@@ -1,0 +1,7 @@
+{
+  "name": "厦大经院研伴 - XMU Econ Graduate Companion",
+  "description": "一个为厦门大学经济学院研究生打造的一站式生活与学习指南门户，涵盖学业、美食、行政与实习等全方位信息。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
